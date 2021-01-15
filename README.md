@@ -1,4 +1,4 @@
-# 
+# gerenciador-salas-reunioes
 
 This project was developed to training about creating an API REST using Java with Spring Boot, an Angular application and integrate frontend with backend on Everis bootcamp course "Crie seu gerenciador de salas de reuniões com Java e Angular" from "Digital Innovation One" plataform.
 
